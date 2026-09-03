@@ -15,6 +15,7 @@ yarn-error.log
 package-lock.json
 
 # IDEs and editors
+.vscode/
 .idea/
 .project
 .classpath
@@ -22,6 +23,8 @@ package-lock.json
 *.launch
 .settings/
 *.sublime-workspace
+.editorconfig
+.prettierrc
 
 # Visual Studio Code
 .vscode/*
